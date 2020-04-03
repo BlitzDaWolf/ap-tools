@@ -1,7 +1,5 @@
 # Gets the key from a prompt
 read -p "Enter your key: " KEY
-echo $KEY
-exit
 
 echo "Adding a ssh Key"
 
